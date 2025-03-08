@@ -6,5 +6,26 @@
     "express": "^4.21.2",
     "nodemailer": "^6.10.0",
     "nodemon": "^3.1.9"
-  }
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodemailer.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakash4372/education-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aakash4372/education-server/issues"
+  },
+  "homepage": "https://github.com/aakash4372/education-server#readme"
 }
